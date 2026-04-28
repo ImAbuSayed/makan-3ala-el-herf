@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> تعالي بقربي نعيش هذا الليل
+> أذوب في عينيك وهذا الدليل
+> حرارة أنفاسك تشعل كياني
+> ونار الغرام تنادي زماني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
