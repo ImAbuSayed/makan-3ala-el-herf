@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/makan-3ala-el-herf/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Usage Rights for Makan 3ala El Herf](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
