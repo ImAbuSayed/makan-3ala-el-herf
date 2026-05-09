@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Makan 3ala El Herf
+
+This log tracks the cryptographic history and versioning for the song **Makan 3ala El Herf** (makan-3ala-el-herf).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T06:13:19.350611 | `v1` | `f3c8dd6a0c09cdc4565910b29ba3bdf1a975ff7b084def86c1761472fb0f55ee` | `875243e41987f1342d8985b1778714086b71aa12337b6ba670552f5c30f3cf09` | `2026-05-09_makan-3ala-el-herf-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
